@@ -26,7 +26,7 @@ docker run --net=host grpcdockerwebproxy
 
 By default container will use localhost and port 50051 as default grpc server target you can see more default configuration below
 
-Avaliable envs
+### Available envs
 
 - ADDRESS = default to localhost
 - PORT = default to 50051
